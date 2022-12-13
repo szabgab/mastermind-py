@@ -11,7 +11,7 @@
 * N, M and K can be be anything. Items can be anything (eg. colors, digits, letters, etc.)
 * In the original game M = 6 colors, N = 4 and K = 12 and * was a back stick and + was a white stick.
 
-* There difficulty can be increased by allowing items to be repated in the secret and/or by allowing empty spaces in the secret.
+* There difficulty can be increased by allowing items to be repeated in the secret and/or by allowing empty spaces in the secret.
 
 Let's see an example when the pool of items are the 6 digits 1-6 and that the size of the secret is 4.
 The computer selects 4 values randomly:
