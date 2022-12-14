@@ -1,10 +1,11 @@
 import random
 
+POOL = list(range(1, 7))
+SIZE = 4
 
 def play():
     ...
 
 
 def new_secret():
-    pool = list(range(1, 7))
-    return random.sample(pool, 4)
+    return random.sample(POOL, SIZE)
